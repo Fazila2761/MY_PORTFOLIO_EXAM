@@ -14,13 +14,27 @@ body{
     
 }
 
+
+
 /* ---------------------------navber end------------------- */
+
+
+/* ---------------------------project card body----------------------------- */
+
+
+.card-body a{
+    color:#720672;
+}
+
+
+/* ------------------------------ end------------------------ */
 .My-image{
     width: 430px;
     height:600px;
     border-bottom:5px solid #a120a1;
     margin-right: 13%;
     margin-top:5% ;
+
 }
 .home-text{
     color: white;
@@ -36,6 +50,9 @@ body{
 }
 .home-image{
     margin-left: 8%;
+ 
+ 
+   
 }
 /* ---------------------------home-end----------------------- */
 #about{
@@ -44,9 +61,18 @@ body{
 .about-img{
     width: 400px;
     height: 500px;
-    border-radius: 90%;
+   border-radius: 20%;
     margin-left: 5%;
+    border-top-style:groove;
+    border-top-color: #a120a1;
+    border-bottom-style:ridge;
+    border-bottom-color:#a120a1;
+ 
+
+
   
+ 
+
     
 }
 
@@ -342,7 +368,11 @@ color:#a120a1
 .project-butt{
     transition: 0.5s ease;
     cursor: pointer;
+    width:80px;
+    
+
 }
 .project-butt:hover{
  transform: scale(1.2);
 }
+/* ---------------------------projec endt------------------ */
