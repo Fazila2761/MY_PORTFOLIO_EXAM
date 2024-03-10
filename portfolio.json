@@ -1,24 +1,27 @@
 [
     {
+        "id" : 1,
         "image" :"",
-        "title" :"",
-        "descreption" :"",
+        "title" :"Ana Lee",
+        "descreption" :"A webpage using html & CSS.Here we use simple CSS animation that you might love.",
         "github":"",
         "netlify" :""
 
     },
     {
+        "id" : 2,
         "image" :"",
-        "title" :"",
-        "descreption" :"",
+        "title" :"E-School",
+        "descreption" :"An Education related page using Html & CSS",
         "github":"",
         "netlify" :""
 
     },
     {
+        "id" : 3,
         "image" :"",
-        "title" :"",
-        "descreption" :"",
+        "title" :"Landing Page",
+        "descreption" :"A simple landing page using CSS framework-Tailwind CSS",
         "github":"",
         "netlify" :""
 

@@ -348,6 +348,15 @@ body{
 .social{
 color:#a120a1
 }
+#text{
+    height:100px;
+}
+#submit{
+margin-top: 2%;
+}
+.form{
+    line-height: 0.8cm;
+}
 /* ---------------------------------contact-end----------------------- */
 
 .footer{
