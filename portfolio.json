@@ -1,29 +1,32 @@
 [
     {
         "id" : 1,
-        "image" :"",
+        "image" :"https://i.ibb.co/3vYkdxD/project.png",
         "title" :"Ana Lee",
         "descreption" :"A webpage using html & CSS.Here we use simple CSS animation that you might love.",
-        "github":"",
-        "netlify" :""
+        "about" :"",
+        "github":"https://github.com/Fazila2761/Ana-Lee-Fotografos",
+        "netlify" :"https://spontaneous-manatee-d8bdd7.netlify.app/"
 
     },
     {
         "id" : 2,
-        "image" :"",
+        "image" :"https://i.ibb.co/vznvVQH/project-2.png",
         "title" :"E-School",
         "descreption" :"An Education related page using Html & CSS",
-        "github":"",
-        "netlify" :""
+        "about" :"",
+        "github":"https://github.com/Fazila2761/E-School",
+        "netlify" :"https://stupendous-puffpuff-03f3c5.netlify.app/"
 
     },
     {
         "id" : 3,
-        "image" :"",
+        "image" :"https://i.ibb.co/2WXGmQv/project-3.png",
         "title" :"Landing Page",
         "descreption" :"A simple landing page using CSS framework-Tailwind CSS",
-        "github":"",
-        "netlify" :""
+        "about" :"",
+        "github":"https://github.com/Fazila2761/Simple-Landing-Page",
+        "netlify" :"https://guileless-crumble-6532d3.netlify.app/"
 
     }
 ]

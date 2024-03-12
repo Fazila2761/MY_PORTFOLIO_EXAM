@@ -235,7 +235,7 @@ body{
     margin-top: 10%;
 }
 .div-1 h1 {
-    padding-top: 15%;
+    padding-top: 10%;
 }
 .div-2 p{
     font-size: 20px;
@@ -384,4 +384,47 @@ margin-top: 2%;
 .project-butt:hover{
  transform: scale(1.2);
 }
-/* ---------------------------projec endt------------------ */
+/* ---------------------------project end------------------ */
+
+
+/* -----------------------json style---------------------------- */
+
+.projectss button{
+    width:45px;
+    height:30px;
+    transition: 0.5s ease;
+    border: none;
+    
+}
+.projectss{
+    width: 350px;
+    height:350px;
+    background-color:#66406f;
+    color: #fff;
+    box-shadow: 10px 10px 10px #a120a1;
+
+
+}
+
+.projectss button a{
+    color: #a120a1;
+}
+.projectss button a:hover{
+    color: white;
+}
+.projectss h3{
+    margin-top: 2%;
+}
+.projectss img{
+    width:320px;
+    height: 150px;
+    margin-top: 4%;
+}
+.projectss button:hover{
+ transform: scale(1.2);
+ background-color: #a120a1;
+ box-shadow: 0px 5px 10px black;
+}
+.details-butt{
+    margin-top: -5%;
+}
