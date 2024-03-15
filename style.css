@@ -67,14 +67,45 @@ body{
     border-top-color: #a120a1;
     border-bottom-style:ridge;
     border-bottom-color:#a120a1;
- 
-
-
-  
- 
-
-    
 }
+/* -------------home text--------------- */
+
+
+.home-text p{
+    position: relative;
+    background: linear-gradient(to right, rgb(29, 185, 237),#a120a1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    font-family: "Anonymous Pro", monospace;
+    letter-spacing: 7px;
+    overflow: hidden;
+    border-right: 2px solid hsl(0, 0%, 80%);
+    white-space: nowrap;
+    animation: typewriter 5s steps(44) 2s 1 normal both,
+      blinkTextCursor 500ms infinite;
+      margin-left: 15%;
+  }
+  
+  @keyframes typewriter {
+    from {
+      width: 0;
+    }
+    to {
+      width: 430px;
+    }
+  }
+  @keyframes blinkTextCursor {
+    from {
+      border-right-color: hsl(0, 0%, 80%);
+    }
+    to {
+      border-right-color: transparent;
+    }
+}
+/* ------------------end------------------------- */
+    
+
 
 .about-text{
     margin-top: 8%;
