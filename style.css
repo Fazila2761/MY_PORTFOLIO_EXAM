@@ -78,7 +78,7 @@ body{
     -webkit-text-fill-color: transparent;
     font-weight: bold;
     font-family: "Anonymous Pro", monospace;
-    letter-spacing: 7px;
+    letter-spacing: 5px;
     overflow: hidden;
     border-right: 2px solid hsl(0, 0%, 80%);
     white-space: nowrap;
@@ -92,7 +92,7 @@ body{
       width: 0;
     }
     to {
-      width: 430px;
+      width: 380px;
     }
   }
   @keyframes blinkTextCursor {
