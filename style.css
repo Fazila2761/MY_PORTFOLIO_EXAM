@@ -80,28 +80,9 @@ body{
     font-family: "Anonymous Pro", monospace;
     letter-spacing: 3px;
     overflow: hidden;
-    border-right: 2px solid hsl(0, 0%, 80%);
-    white-space: nowrap;
-    animation: typewriter 5s steps(44) 2s 1 normal both,
-      blinkTextCursor 500ms infinite;
-      margin-left: 20%;
-  }
-  
-  @keyframes typewriter {
-    from {
-      width: 0;
-    }
-    to {
-      width: 310px;
-    }
-  }
-  @keyframes blinkTextCursor {
-    from {
-      border-right-color: hsl(0, 0%, 80%);
-    }
-    to {
-      border-right-color: transparent;
-    }
+   
+     
+
 }
 /* ------------------end------------------------- */
     
@@ -111,6 +92,12 @@ body{
     margin-top: 8%;
     color: white;
     font-size: 20px;
+}
+.about-text p{
+    background: linear-gradient(to right, rgb(29, 185, 237),#a120a1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
 }
 .about-text h2{
     color: #a120a1;
