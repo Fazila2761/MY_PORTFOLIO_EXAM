@@ -28,5 +28,65 @@
         "github":"https://github.com/Fazila2761/Simple-Landing-Page",
         "netlify" :"https://guileless-crumble-6532d3.netlify.app/"
 
+    },
+    {
+        "id" : 3,
+        "image" :"https://i.ibb.co/2WXGmQv/project-3.png",
+        "title" :"Landing Page",
+        "descreption" :"A simple landing page using CSS framework-Tailwind CSS",
+        "about" :"",
+        "github":"https://github.com/Fazila2761/Simple-Landing-Page",
+        "netlify" :"https://guileless-crumble-6532d3.netlify.app/"
+
+    },
+    {
+        "id" : 4,
+        "image" :"https://i.ibb.co/2WXGmQv/project-3.png",
+        "title" :"Landing Page",
+        "descreption" :"A simple landing page using CSS framework-Tailwind CSS",
+        "about" :"",
+        "github":"https://github.com/Fazila2761/Simple-Landing-Page",
+        "netlify" :"https://guileless-crumble-6532d3.netlify.app/"
+
+    },
+    {
+        "id" : 3,
+        "image" :"https://i.ibb.co/2WXGmQv/project-3.png",
+        "title" :"Landing Page",
+        "descreption" :"A simple landing page using CSS framework-Tailwind CSS",
+        "about" :"",
+        "github":"https://github.com/Fazila2761/Simple-Landing-Page",
+        "netlify" :"https://guileless-crumble-6532d3.netlify.app/"
+
+    },
+    {
+        "id" : 3,
+        "image" :"https://i.ibb.co/2WXGmQv/project-3.png",
+        "title" :"Landing Page",
+        "descreption" :"A simple landing page using CSS framework-Tailwind CSS",
+        "about" :"",
+        "github":"https://github.com/Fazila2761/Simple-Landing-Page",
+        "netlify" :"https://guileless-crumble-6532d3.netlify.app/"
+
+    },
+    {
+        "id" : 3,
+        "image" :"https://i.ibb.co/2WXGmQv/project-3.png",
+        "title" :"Landing Page",
+        "descreption" :"A simple landing page using CSS framework-Tailwind CSS",
+        "about" :"",
+        "github":"https://github.com/Fazila2761/Simple-Landing-Page",
+        "netlify" :"https://guileless-crumble-6532d3.netlify.app/"
+
+    },
+    {
+        "id" : 3,
+        "image" :"https://i.ibb.co/2WXGmQv/project-3.png",
+        "title" :"Landing Page",
+        "descreption" :"A simple landing page using CSS framework-Tailwind CSS",
+        "about" :"",
+        "github":"https://github.com/Fazila2761/Simple-Landing-Page",
+        "netlify" :"https://guileless-crumble-6532d3.netlify.app/"
+
     }
 ]

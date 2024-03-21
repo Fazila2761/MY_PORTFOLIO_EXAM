@@ -105,6 +105,7 @@ body{
 .button-1{
     transition: 0.5s ease;
     cursor: pointer;
+    background: linear-gradient(to right, rgb(29, 185, 237),#a120a1);
 }
 .button-1:hover{
  transform: scale(1.2);
@@ -396,53 +397,13 @@ margin-top: 2%;
     transition: 0.5s ease;
     cursor: pointer;
     width:80px;
+    background: linear-gradient(to right, rgb(29, 185, 237),#a120a1);
     
 
 }
 .project-butt:hover{
- transform: scale(1.2);
+ transform: scale(1.1);
 }
 /* ---------------------------project end------------------ */
 
 
-/* -----------------------json style---------------------------- */
-
-.projectss button{
-    width:45px;
-    height:30px;
-    transition: 0.5s ease;
-    border: none;
-    
-}
-.projectss{
-    width: 350px;
-    height:350px;
-    background-color:#66406f;
-    color: #fff;
-    box-shadow: 10px 10px 10px #a120a1;
-
-
-}
-
-.projectss button a{
-    color: #a120a1;
-}
-.projectss button a:hover{
-    color: white;
-}
-.projectss h3{
-    margin-top: 2%;
-}
-.projectss img{
-    width:320px;
-    height: 150px;
-    margin-top: 4%;
-}
-.projectss button:hover{
- transform: scale(1.2);
- background-color: #a120a1;
- box-shadow: 0px 5px 10px black;
-}
-.details-butt{
-    margin-top: -5%;
-}
